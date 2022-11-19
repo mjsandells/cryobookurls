@@ -11,6 +11,8 @@ For those who prefer the print edition :-)
 Link to each chapter:
 - [Chapter 1](#chapter-1)
 - [Chapter 2](#chapter-2)
+- [Chapter 3](#chapter-3)
+
 
 
 ## Chapter 1
@@ -61,3 +63,37 @@ Figure 1.11 - [BCCM/DCG](https://bccm.belspo.be/about-us/bccm-dcg).
 ------------------------------------------
 
 ## Chapter 2
+
+Page 2-7
+* [time lapse video demonstrating the process of regelation](https://www.youtube.com/watch?v=gM3zP72-rJE).
+
+Figure 2.2 - [Molview](https://molview.orghttps://molview.org). FIX BOOK LINK.
+
+
+------------------------------------------
+
+## Chapter 3
+
+Page 3-3
+* [The thickness of the active layer can be monitored with a frost probe, forced through the soil until the top of the solid permafrost is found](https://www.youtube.com/watch?v=OfDXWyeEHl4).
+
+Page 3-6
+* pingos can [rupture when the ice core melts](https://www.youtube.com/watch?v=4_mVhXYc7W4).
+
+Page 3-7
+* Melting of the ice contained within the permafrost can lead to [collapse in the land surface](https://www.youtube.com/watch?v=mlnIxW02agI).
+* The land surface [slumps down](https://www.youtube.com/watch?v=CVKsZhrsAec) and leaves behind depressions in the land surface, known as thermokarst.
+
+Figure 3.7 - [Aerial view of palsas. Photo by Dentren](https://commons.wikimedia.org/wiki/File:Palsaaerialview.jpg).
+
+Page 3-8
+* [Herschel Island, Canada](https://www.youtube.com/watch?v=4ncJLCaIGEg), has experienced an increase in the number and total area of retrogressive thaw slumps over the last 50 years.
+* A general overview of Arctic glacial landforms is shown in [this video](https://www.youtube.com/watch?v=R7ocQPPbM98).
+
+Figure 3.9 - Batagaika Crater, imaged by Landsat and [provided by NASA](https://earthobservatory.nasa.gov/images/90104/batagaika-crater-expands).
+
+Page 3-11
+* [emission of gaseous CO2 along with dust via jets that may close and reopen](http://www.uahirise.org/media/clips/ESP_073471_0950_1080.mp4)
+
+Page 3-12
+* [Thawing of the permafrost is a particular concern because of damage to infrastructure and release of methane](https://www.youtube.com/watch?v=O0OzT-nhPNg). 
