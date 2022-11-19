@@ -14,7 +14,9 @@ Link to each chapter:
 - [Chapter 3](#chapter-3)
 - [Chapter 4](#chapter-4)
 - [Chapter 5](#chapter-5)
-
+- [Chapter 6](#chapter-6)
+- [Chapter 7](#chapter-7)
+- [Chapter 8](#chapter-8)
 
 
 ## Chapter 1
@@ -135,5 +137,50 @@ Page 5-14
 
 Page 5-17
 * [increased melting rate in the northern part of the Greenland ice sheet](https://www.cbsnews.com/news/greenland-ice-sheet-loses-its-last-grip/).
+
+[to top](#cryobookurls)
+
+------------------------------------------
+
+## Chapter 6
+
+Page 6-3
+* [frazil ice](https://www.shutterstock.com/video/clip-1831820-frazil-ice-on-sea-surface).
+
+Figure 6.3 - [Pancake ice in the Drake Passage, Southern Ocean](https://blogs.egu.eu/geolog/2013/12/30/imaggeo-on-mondays-a-feast-of-pancakes/).
+
+Page 6-5
+* [ASPeCt Glossary](http://aspect.antarctica.gov.au/home/glossary-and-image-library).
+
+Figure 6.4 - [Egg code](https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations/publications/interpreting-charts/chapter-1.html). FIX BOOK LINK.
+
+Figure 6.5 - [NASA image, courtesy of Jeff Schmaltz](https://earthobservatory.nasa.gov/images/76474/polynya-off-the-antarctic-coast).
+
+Figure 6.10. REMOVE LINK AND TAKE TEXT OUT OF QUOTES.
+
+[to top](#cryobookurls)
+
+------------------------------------------
+
+## Chapter 7
+
+Figure 7.1 - Atlantic Meridional Overturning Circulation (AMOC). Image distributed courtesy of [Hugo Ahlenius, UNEP/GRID-Arendal](https://www.grida.no/resources/5228). FIX BOOK LINK.
+
+Page 7-3
+* [AMOC and the Great Conveyor Belt](https://upload.wikimedia.org/wikipedia/commons/a/ab/Thermohaline_circulation.svg).
+
+Page 7-19
+* CAMS combines measurements from satellite instruments and in situ sensors with its numerical models to provide [quality-assured information about the state of the ozone layer](https://atmosphere.copernicus.eu/monitoring-ozone-layer).
+* solar particles enter the magnetosphere, interacting with gases and releasing energy in the [form of light](https://www.youtube.com/watch?v=8NDPsSZCcz0&t=41s).
+
+[to top](#cryobookurls)
+
+------------------------------------------
+
+## Chapter 8
+
+Page 8-1
+* [The IPCC report on the polar regions](https://www.ipcc.ch/site/assets/uploads/sites/3/2022/03/05_SROCC_Ch03_FINAL.pdf).
+* A summary examining the impact of a temperature increase of 1.5degC on the Earth’s natural and human systems can be found on the [NASA website](https://climate.nasa.gov/news/2865/a-degree-of-concern-why-global-temperatures-matter/).
 
 [to top](#cryobookurls)
