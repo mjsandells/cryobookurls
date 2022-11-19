@@ -12,6 +12,8 @@ Link to each chapter:
 - [Chapter 1](#chapter-1)
 - [Chapter 2](#chapter-2)
 - [Chapter 3](#chapter-3)
+- [Chapter 4](#chapter-4)
+- [Chapter 5](#chapter-5)
 
 
 
@@ -60,6 +62,8 @@ Page 1-14
 
 Figure 1.11 - [BCCM/DCG](https://bccm.belspo.be/about-us/bccm-dcg).
 
+[to top](#cryobookurls)
+
 ------------------------------------------
 
 ## Chapter 2
@@ -69,6 +73,7 @@ Page 2-7
 
 Figure 2.2 - [Molview](https://molview.orghttps://molview.org). FIX BOOK LINK.
 
+[to top](#cryobookurls)
 
 ------------------------------------------
 
@@ -97,3 +102,38 @@ Page 3-11
 
 Page 3-12
 * [Thawing of the permafrost is a particular concern because of damage to infrastructure and release of methane](https://www.youtube.com/watch?v=O0OzT-nhPNg). 
+
+[to top](#cryobookurls)
+
+
+------------------------------------------
+
+## Chapter 4
+
+Page 4-8
+* [This video demonstrates what happens to rounded snow crystals when a temperature gradient of 50K m−1 is applied to snow for 3 weeks](https://www.youtube.com/watch?v=Eee3en_3bKE).
+
+[to top](#cryobookurls)
+
+------------------------------------------
+
+## Chapter 5
+
+Page 5-2
+* [glacial erratics](https://en.wikipedia.org/wiki/Glacial_erratic). FIX BOOK LINK
+
+Figure 5.9 - [Bridalveil Fall](https://commons.wikimedia.org/wiki/File:Closeup_of_Bridalveil_Fall_seen_from_Tunnel_View_in_Yosemite_NP.JPG)  in Yosemite National Park. FIX CAPTION IN BOOK.
+
+Page 5-10
+* [The location and direction of the crevasses indicate the underlying bedrock characteristics](https://blogs.agu.org/fromaglaciersperspective/2019/09/12/glacier-crevasses-as-a-learning-tool/).
+
+Page 5-12
+* Larsen B ice-shelf breakup...[watched as a sequence](https://www.youtube.com/watch?v=zIcLuiTt4f4).
+ 
+Page 5-14
+* [Collapse of icebergs can be explosive](https://www.youtube.com/watch?v=aES6WC0CDnI).
+
+Page 5-17
+* [increased melting rate in the northern part of the Greenland ice sheet](https://www.cbsnews.com/news/greenland-ice-sheet-loses-its-last-grip/).
+
+[to top](#cryobookurls)
